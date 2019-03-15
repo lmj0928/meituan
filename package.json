@@ -1,0 +1,22 @@
+{
+  "name": "meituan",
+  "version": "1.0.0",
+  "description": "美团页面",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"gulp dev",
+    "build":"gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmj0928/meituan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmj0928/meituan/issues"
+  },
+  "homepage": "https://github.com/lmj0928/meituan#readme"
+}
